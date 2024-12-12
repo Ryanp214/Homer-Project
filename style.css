@@ -1,0 +1,11 @@
+img{
+  width: 200px;
+}
+button{
+  matgin-top: 15px;
+}
+
+#homer-reply{
+  padding: 15px;
+  display: inline;
+}
